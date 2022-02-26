@@ -9,6 +9,9 @@
 <li><b><a href="https://github.com/luffy-17/FingerCountingWithOpenCV/blob/master/fingerCounting.py">fingerCounting.py</a></b> - Script for finger Counting.</li>
 </ul>
 
- 
- ![hand_landmarks](hand_crops.png, "Hand Landmarks")
- ![Example_ofHand_Landmarks](hand_landmarks.png, "Hand landmarks example")
+ ![Example_ofHand_Landmarks](hand_landmarks.png)
+ ![hand_landmarks](hand_crops.png)
+
+## My project Image
+
+![Screen Shot of project](handtracking.png)
